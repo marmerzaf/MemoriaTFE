@@ -1,5 +1,5 @@
 ---
-author: "Nombre Completo Autor"
+author: "Maria Dolores Mercado Zafra"
 date: "27/10/2017"
 documentclass: book
 forprint: true  # true: imprime a dos caras, false: libro digital
